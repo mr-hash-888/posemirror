@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 3,
+  "revision": 4,
   "games": [
     {
       "id": "fh5",
@@ -8,8 +8,8 @@
       "gameKeys": ["forza horizon 5"],
       "pitchProp": "DataCorePlugin.GameData.OrientationPitch",
       "rollProp": "DataCorePlugin.GameData.OrientationRoll",
-      "pitchSign": 1,
-      "rollSign": 1,
+      "pitchSign": -1,
+      "rollSign": -1,
       "motion": 0,
       "gain": 1.0
     }
